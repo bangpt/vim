@@ -1,5 +1,5 @@
 " Start working on some simplifications
-" Adding something to see if the view folder appears"
+" Another testing for git
 " Some basic settings
 "
      set nocompatible
