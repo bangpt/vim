@@ -6,6 +6,7 @@
      runtime! debian.vim
 
      set nowrap
+     
      set number
      set noswapfile
      set go=
