@@ -1,3 +1,4 @@
+" Start working on some simplifications
 " Adding something to see if the view folder appears"
 " Some basic settings
 "
